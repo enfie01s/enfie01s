@@ -25,16 +25,16 @@
 [![Vuetify](https://img.shields.io/badge/-Vuetify-1867C0?style=flat&logo=Vuetify&logoColor=white&link=https://www.vuetifyjs.com)](https://www.vuetifyjs.com)&nbsp;
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=Bootstrap&logoColor=white&link=https://www.getbootstrap.com)](https://www.getbootstrap.com)&nbsp;
 
-<!-- Graphics 
-[![Photoshop](https://img.shields.io/badge/-php-777BB4?style=flat&logo=PHP&logoColor=white&link=https://www.php.net)](https://www.php.net)&nbsp;
-[![Illustrator](https://img.shields.io/badge/-php-777BB4?style=flat&logo=PHP&logoColor=white&link=https://www.php.net)](https://www.php.net)&nbsp;
-[![Adobe XD](https://img.shields.io/badge/-php-777BB4?style=flat&logo=PHP&logoColor=white&link=https://www.php.net)](https://www.php.net)&nbsp;
-[![Figma](https://img.shields.io/badge/-php-777BB4?style=flat&logo=PHP&logoColor=white&link=https://www.php.net)](https://www.php.net)&nbsp;
+<!-- Graphics -->
+[![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?style=flat&logo=Adobe%20Photoshop&logoColor=white&link=https://www.php.net)](https://www.php.net)&nbsp;
+[![Illustrator](https://img.shields.io/badge/-Illustrator-FF9A00?style=flat&logo=Adobe%20Illustrator&logoColor=white&link=https://www.php.net)](https://www.php.net)&nbsp;
+[![Adobe XD](https://img.shields.io/badge/-XD-FF61F6?style=flat&logo=Adobe%20XD&logoColor=white&link=https://www.php.net)](https://www.php.net)&nbsp;
+[![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=Figma&logoColor=white&link=https://www.php.net)](https://www.php.net)&nbsp;
 
 <!-- Editors 
 [![VS Code](https://img.shields.io/badge/-php-777BB4?style=flat&logo=PHP&logoColor=white&link=https://www.php.net)](https://www.php.net)&nbsp;
 [![Sublime](https://img.shields.io/badge/-php-777BB4?style=flat&logo=PHP&logoColor=white&link=https://www.php.net)](https://www.php.net)&nbsp;
-[![Dreamweaver](https://img.shields.io/badge/-php-777BB4?style=flat&logo=PHP&logoColor=white&link=https://www.php.net)](https://www.php.net)&nbsp;
+[![Dreamweaver](https://img.shields.io/badge/-Adobe%20Dreamweaver-FF61F6?style=flat&logo=PHP&logoColor=white&link=https://www.php.net)](https://www.php.net)&nbsp;
 
 <!-- Tools 
 [![Docker](https://img.shields.io/badge/-php-777BB4?style=flat&logo=PHP&logoColor=white&link=https://www.php.net)](https://www.php.net)&nbsp;
