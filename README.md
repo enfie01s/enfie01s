@@ -31,21 +31,23 @@
 [![Adobe XD](https://img.shields.io/badge/-XD-FF61F6?style=flat&logo=Adobe%20XD&logoColor=white&link=https://www.adobe.com/products/xd/pricing/free-trial.html)](https://www.adobe.com/products/xd/pricing/free-trial.html)&nbsp;
 [![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=Figma&logoColor=white&link=https://www.figma.com/)](https://www.figma.com/)&nbsp;
 
-<!-- Editors 
-[![VS Code](https://img.shields.io/badge/-php-777BB4?style=flat&logo=PHP&logoColor=white&link=https://www.php.net)](https://www.php.net)&nbsp;
-[![Sublime](https://img.shields.io/badge/-php-777BB4?style=flat&logo=PHP&logoColor=white&link=https://www.php.net)](https://www.php.net)&nbsp;
-[![Dreamweaver](https://img.shields.io/badge/-Adobe%20Dreamweaver-FF61F6?style=flat&logo=PHP&logoColor=white&link=https://www.php.net)](https://www.php.net)&nbsp;
+<!-- Editors -->
+[![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=Visual%20Studio%20Code&logoColor=white&link=https://code.visualstudio.com)](https://code.visualstudio.com)&nbsp;
+[![Sublime](https://img.shields.io/badge/-Sublime-FF9800?style=flat&logo=Sublime%20Text&logoColor=white&link=https://www.sublimetext.com/)](https://www.sublimetext.com/)&nbsp;
+[![Dreamweaver](https://img.shields.io/badge/-Dreamweaver-FF61F6?style=flat&logo=Adobe%20Dreamweaver&logoColor=white&link=https://www.adobe.com/uk/products/dreamweaver.html)](https://www.adobe.com/uk/products/dreamweaver.html)&nbsp;
+[![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?style=flat&logo=Android%20Studio&logoColor=white&link=https://developer.android.com/studio)](https://developer.android.com/studio)&nbsp;
+[![Xcode](https://img.shields.io/badge/-Xcode-147EFB?style=flat&logo=Xcode&logoColor=white&link=https://developer.apple.com/xcode/)](https://developer.apple.com/xcode/)&nbsp;
 
-<!-- Tools 
-[![Docker](https://img.shields.io/badge/-php-777BB4?style=flat&logo=PHP&logoColor=white&link=https://www.php.net)](https://www.php.net)&nbsp;
-[![Git](https://img.shields.io/badge/-php-777BB4?style=flat&logo=PHP&logoColor=white&link=https://www.php.net)](https://www.php.net)&nbsp;
+<!-- Tools -->
+[![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=Docker&logoColor=white&link=https://www.docker.com)](https://www.docker.com)&nbsp;
+[![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=Git&logoColor=white&link=https://git-scm.com)](https://git-scm.com)&nbsp;
+[![GitHub](https://img.shields.io/badge/-GitGub-181717?style=flat&logo=GitHub&logoColor=white&link=https://github.com)](https://github.com)&nbsp;
 
-<!-- Platforms 
-[![Web](https://img.shields.io/badge/-php-777BB4?style=flat&logo=PHP&logoColor=white&link=https://www.php.net)](https://www.php.net)&nbsp;
-[![Android](https://img.shields.io/badge/-php-777BB4?style=flat&logo=PHP&logoColor=white&link=https://www.php.net)](https://www.php.net)&nbsp;
-[![iOS](https://img.shields.io/badge/-php-777BB4?style=flat&logo=PHP&logoColor=white&link=https://www.php.net)](https://www.php.net)&nbsp;
+<!-- Platforms -->
+[![Web](https://img.shields.io/badge/-Web-0076D6?style=flat&logo=Internet%20Explorer&logoColor=white&link=https://www.google.com)](https://www.google.com)&nbsp;
+[![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat&logo=Android&logoColor=white&link=https://www.android.com)](https://www.android.com)&nbsp;
+[![iOS](https://img.shields.io/badge/-iOS-000000?style=flat&logo=iOS&logoColor=white&link=https://www.apple.com/uk/ios/)](https://www.apple.com/uk/ios/)&nbsp;
 
--->
 ### GitHub Stats
 ![Stella's GitHub stats](https://github-readme-stats.vercel.app/api?username=enfie01s&count_private=true&show_icons=true&include_all_commits=true&theme=city_lights&hide_rank=true&hide=prs)&nbsp;
 ![Stella's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=enfie01s&layout=compact&theme=city_lights)&nbsp;
