@@ -37,6 +37,7 @@
 [![Dreamweaver](https://img.shields.io/badge/-Dreamweaver-FF61F6?style=flat&logo=Adobe%20Dreamweaver&logoColor=white&link=https://www.adobe.com/uk/products/dreamweaver.html)](https://www.adobe.com/uk/products/dreamweaver.html)&nbsp;
 [![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?style=flat&logo=Android%20Studio&logoColor=white&link=https://developer.android.com/studio)](https://developer.android.com/studio)&nbsp;
 [![Xcode](https://img.shields.io/badge/-Xcode-147EFB?style=flat&logo=Xcode&logoColor=white&link=https://developer.apple.com/xcode/)](https://developer.apple.com/xcode/)&nbsp;
+[![PHPStorm](https://img.shields.io/badge/-PHPStorm-181717?style=flat&logo=phpstorm&logoColor=white&link=https://www.jetbrains.com/phpstorm/)](https://www.jetbrains.com/phpstorm/)&nbsp;
 
 <!-- Tools -->
 [![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=Docker&logoColor=white&link=https://www.docker.com)](https://www.docker.com)&nbsp;
