@@ -42,6 +42,8 @@
 [![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=Docker&logoColor=white&link=https://www.docker.com)](https://www.docker.com)&nbsp;
 [![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=Git&logoColor=white&link=https://git-scm.com)](https://git-scm.com)&nbsp;
 [![GitHub](https://img.shields.io/badge/-GitGub-181717?style=flat&logo=GitHub&logoColor=white&link=https://github.com)](https://github.com)&nbsp;
+[![Claude](https://img.shields.io/badge/-Claude-D97757?style=flat&logo=claude&logoColor=white&link=https://claude.com)](https://claude.com)&nbsp;
+[![GitHubCoPilot](https://img.shields.io/badge/-GitHubCoPilot-181717?style=flat&logo=githubcopilot&logoColor=#D97757&link=https://github.com/features/copilot)](https://github.com/features/copilot)&nbsp;
 
 <!-- Platforms -->
 [![Web](https://img.shields.io/badge/-Web-0076D6?style=flat&logo=Internet%20Explorer&logoColor=white&link=https://www.google.com)](https://www.google.com)&nbsp;
